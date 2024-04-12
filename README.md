@@ -1,0 +1,1 @@
+# beach_monitoring_yolov8
